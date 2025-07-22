@@ -1,1 +1,3 @@
 print(@test)
+Branch > Merge into current branch...
+Push origin
